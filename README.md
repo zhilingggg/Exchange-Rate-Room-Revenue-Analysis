@@ -4,7 +4,7 @@ Author: Yap Zhi Ling
 This project investigates whether exchange rates can effectively predict hotel room revenue using time series forecasting models. Through comprehensive analysis using SARIMA and SARIMAX models, we examine the predictive power of USD/SGD exchange rates on hotel room revenue.
 ## Methodology
 1. Exploratory Data Analysis - Time Series Visualisation, Identifying Lag, Seasonal Decomposition
-2. Stationary Testing - ADF & KPSS Tests, ACF & PACF Plots
+2. Stationarity Testing - ADF & KPSS Tests, ACF & PACF Plots
 3. Data Preprocessing - Differencing, Adding Lag & COVID Binary Mask Variable
 4. Model Development - auto_arima, Log Transformation
 5. Model Comparison - Forecast Accuracy (MAE/RMSE/MASE)
